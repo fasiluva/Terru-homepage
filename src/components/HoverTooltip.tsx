@@ -12,6 +12,7 @@ const HoverTooltip = ({ href, children, tooltipText }) => {
     <>
       <a
         href={href}
+        rel="noreferrer"
         target="_blank"
         onMouseEnter={() => setShow(true)}
         onMouseLeave={() => setShow(false)}
