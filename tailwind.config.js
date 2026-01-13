@@ -31,9 +31,6 @@ module.exports = {
         "banner-height": "40vh",
         "banner-height-mobile": "10vh",
       },
-      backgroundImage: {
-        'terrunio-overlay': "url('/terruFrente.jpg')",
-      },
       backgroundColor: {
         'caribbean-yellow': '#6F1D1B'
       },
