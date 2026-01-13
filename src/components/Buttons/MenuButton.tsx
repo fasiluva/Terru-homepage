@@ -1,4 +1,6 @@
 import React from "react";
+import Link from 'next/link';
+
 
 interface MenuButtonProps {
     /** The menu's type */
@@ -9,9 +11,23 @@ interface MenuButtonProps {
 
 const MenuButton: React.FC<MenuButtonProps> = ({ menu_type, url }) => {
     return (
-        <button className="s:w-[50%] 3xl:w-[50%] block w-[60%] p-[1%] justify-content align-content bg-caribbean-yellow border-solid rounded-button-border-radius border-button-orange border-2 text-xl uppercase m-button-margin">
-            <a className="hover:text-medium-brown visited:text-medium-brown" href={url}>{menu_type} Menu</a>
-        </button>
+        <Link href={url}>
+            <button 
+                className="
+                    block w-[80%] sm:w-[60%] md:w-[50%]
+                    text-base sm:text-lg md:text-xl
+                    p-3 
+                    bg-caribbean-yellow 
+                    border-solid border-button-orange border-2 
+                    rounded-button-border-radius 
+                    uppercase 
+                    m-button-margin
+                    mx-auto
+                "
+>
+            {menu_type}
+            </button>
+        </Link>
     )
 }
 

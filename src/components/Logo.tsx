@@ -6,7 +6,7 @@ const Logo = () => {
         <div className="flex flex-col items-center sm:justify-center sm:mt-9 sm:flex-row text-justify relative">
             <div className="sm:mr-10 min-w-1/3">
                 <Image
-                    src="/blackgyalbites-nextjs/vector-2.png"
+                    src="/terru.jpg"
                     alt="Profile"
                     width={454}
                     height={424}
@@ -19,3 +19,6 @@ const Logo = () => {
 }
 
 export default Logo;
+
+
+//TODO: BORRAR ESTE ARCHIVO DEL PROYECTO!

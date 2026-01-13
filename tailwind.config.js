@@ -8,16 +8,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'medium-brown': '#653A1E',
-        'button-orange': '#FA873E',
+        'medium-brown': '#BB9457',
+        'button-orange': '#BB9457',
       },
       fontSize: {
         'heading-xl': '46px',
+        'carta' : '26px',
       },
       fontFamily: {
-        'body': ['Lato', 'sans-serif'],
+        'body': ['Lexend', 'sans-serif'],
         'heading': ['Shrikhand', 'cursive'],
-        'typewriter': ['Courier Prime', 'monospace'],
+        'typewriter': ['Lexend', 'sans-serif'],
+        'carta' : ['Birthstone', 'sans-serif'],
       },
       letterSpacing: {
         'small': '2px',
@@ -30,10 +32,10 @@ module.exports = {
         "banner-height-mobile": "10vh",
       },
       backgroundImage: {
-        'fish-overlay': "url('/blackgyalbites-nextjs/fish-overlay.png')",
+        'terrunio-overlay': "url('/terruFrente.jpg')",
       },
       backgroundColor: {
-        'caribbean-yellow': '#FFDE59'
+        'caribbean-yellow': '#6F1D1B'
       },
       borderRadius: {
         'button-border-radius': '10px'

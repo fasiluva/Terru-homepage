@@ -1,0 +1,24 @@
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .bg-cover, .bg-center {
+    background: none !important;
+  }
+  .shadow-xl, .rounded-xl {
+    box-shadow: none !important;
+    border-radius: 0 !important;
+  }
+  .min-h-screen, .min-h-[80vh] {
+    min-height: auto !important;
+  }
+  .p-6, .mt-12 {
+    padding: 0 !important;
+    margin-top: 0 !important;
+  }
+  /* Oculta elementos no deseados en la impresión */
+  .no-print {
+    display: none !important;
+  }
+}

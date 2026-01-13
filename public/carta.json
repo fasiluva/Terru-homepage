@@ -1,0 +1,1300 @@
+{
+    "Gaseosas y Aguas": [
+        {
+            "nombre": "Jarra de limonada y jengibre",
+            "descripcion": null,
+            "costo": 8500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Agua sin gas",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Agua con gas",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Aguas saborizadas H2Oh",
+            "descripcion": null,
+            "costo": 8500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Vaso jugo naranja exprimido",
+            "descripcion": null,
+            "costo": 3500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Vaso de limonada",
+            "descripcion": null,
+            "costo": 2500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Aguas saborizadas sin gas",
+            "descripcion": "consultar sabores",
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pepsi",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pepsi cero",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Mirinda",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "7up",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "7up light",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pomelo",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Cervezas": [
+        {
+            "nombre": "Stella Artois 1000 Cm3",
+            "descripcion": null,
+            "costo": 7500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Andes Roja 1000 Cm3",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Andes Ipa 1000 Cm3",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Quilmes Stout 1000 Cm3",
+            "descripcion": null,
+            "costo": 4800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Brahama 1000 Cm3",
+            "descripcion": null,
+            "costo": 4800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Patagonia Laguer",
+            "descripcion": null,
+            "costo": 7300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Patagonia 24.7",
+            "descripcion": null,
+            "costo": 7300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Corona 710 Cm3",
+            "descripcion": null,
+            "costo": 8000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Lata Brahama",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Lata Andes",
+            "descripcion": null,
+            "costo": 4300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Lata Quilmes Stout",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Lata Stella",
+            "descripcion": null,
+            "costo": 4300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Lata Corona",
+            "descripcion": null,
+            "costo": 4300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Porrón Corona sin alcohol",
+            "descripcion": null,
+            "costo": 4000,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Tragos": [
+        {
+            "nombre": "Caipirinha",
+            "descripcion": "cachaça - limón - azúcar",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Caipirol",
+            "descripcion": "Aperol - vodka - naranjas maceradas en azúcar",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Caipiroska",
+            "descripcion": "vodka - limón - azúcar",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Caipi helada",
+            "descripcion": "cachaça - limón - azúcar - helado de limón",
+            "costo": 5000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Caipi berry",
+            "descripcion": "Absolut de raspberry - limón - frutos rojos y azúcar",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Daiquiri frozen",
+            "descripcion": "ron blanco - fruta - hielo",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Fernet cola",
+            "descripcion": "fernet branca - cola cola",
+            "costo": 3500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Gancia batido",
+            "descripcion": "gancia - jugo de limón - 7up",
+            "costo": 3500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Mojito malibu",
+            "descripcion": "ron malibu - limón - menta",
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Wiscola",
+            "descripcion": "skotch - menta",
+            "costo": 3500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Gin tonic",
+            "descripcion": "gin - limón - tónica",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Gin tonic beefeter con pomelo",
+            "descripcion": null,
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Gin tonic beefeter con frutos rojos",
+            "descripcion": null,
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Gin tonic con pomelo",
+            "descripcion": null,
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Gin tonic con frutos rojos",
+            "descripcion": null,
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Sex on the beach",
+            "descripcion": "jugo de naranja - Absolut Apeach - licor de melocotón y granadina",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Negroni",
+            "descripcion": "campari - martini rosso - gin beefeter",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Campari garibaldi",
+            "descripcion": "campari con jugo de naranja",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Cynar julep",
+            "descripcion": "cynar - jugo de pomelo - menta y almíbar",
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Mudslide",
+            "descripcion": "baileys - vodka - chocolate y helado de americana",
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Aperol Spritz",
+            "descripcion": "Aperol espumante - rodajas de naranja y un touch de soda",
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Gin tonic con bombay",
+            "descripcion": null,
+            "costo": 5500,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Vinos": [
+        {
+            "nombre": "Finca el Portillo Malbec",
+            "descripcion": null,
+            "costo": 8500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Finca el Portillo Chardonnay",
+            "descripcion": null,
+            "costo": 8500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Finca la Linda Malbec",
+            "descripcion": null,
+            "costo": 16500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Finca la Linda Sauvignon blanc",
+            "descripcion": null,
+            "costo": 16500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Finca la Linda Chardonnay",
+            "descripcion": null,
+            "costo": 16500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Latitud 33° Malbec",
+            "descripcion": null,
+            "costo": 10000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Latitud 33° Chardonnay",
+            "descripcion": null,
+            "costo": 10000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Malbec",
+            "descripcion": null,
+            "costo": 13500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Tempranillo",
+            "descripcion": null,
+            "costo": 13500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Chardonnay",
+            "descripcion": null,
+            "costo": 13500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Sauvignon blanc",
+            "descripcion": null,
+            "costo": 10000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Chenin dulce natural",
+            "descripcion": null,
+            "costo": 7500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Malbec 3/8",
+            "descripcion": null,
+            "costo": 7500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Chardonnay 3/8",
+            "descripcion": null,
+            "costo": 7500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Santa Julia Chenin dulce lata",
+            "descripcion": null,
+            "costo": 7500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "San Felipe Malbec roble",
+            "descripcion": null,
+            "costo": 9000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "San Felipe Chardonnay roble",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Nicasia Malbec",
+            "descripcion": null,
+            "costo": 12500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Séptima Malbec",
+            "descripcion": null,
+            "costo": 10000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Séptima Sauvignon Blanc",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Séptima Chardonnay",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Séptima Rosado Malbec",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Elementos Malbec",
+            "descripcion": null,
+            "costo": 8500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Elementos Torrontes",
+            "descripcion": null,
+            "costo": 8500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Escorihuela Gascon Malbec",
+            "descripcion": null,
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Escorihuela Gascon Chardonnay",
+            "descripcion": null,
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Escorihuela Gascon Gran Reserva malbec",
+            "descripcion": null,
+            "costo": 26500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Escorihuela Gascon Gran Reserva chardonnay",
+            "descripcion": null,
+            "costo": 26500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Escorihuela Gascon Malbec 3/8",
+            "descripcion": null,
+            "costo": 7000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Las Perdices Malbec",
+            "descripcion": null,
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Las Perdices Sauvignon Blanc",
+            "descripcion": null,
+            "costo": 11000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Las Perdices Chardonnay",
+            "descripcion": null,
+            "costo": 11000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Las Perdices Malbec 375",
+            "descripcion": null,
+            "costo": 10000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Luigi Bosca Malbec",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Luigi Bosca Cabernet Sauvignon",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Luigi Bosca Sauvignon blanc",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Trumpeter Malbec",
+            "descripcion": null,
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Trumpeter Chardonnay",
+            "descripcion": null,
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Rutini Cabernet",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Rutini Malbec",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Rutini Sauvignon Blanc",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Alamos Malbec",
+            "descripcion": null,
+            "costo": 14000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Alamos Sauvignon blanc",
+            "descripcion": null,
+            "costo": 14000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Fon de Cave Malbec",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Fon de Cave Chardonnay",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Emilia Malbec",
+            "descripcion": null,
+            "costo": 10500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Emilia Chardonnay",
+            "descripcion": null,
+            "costo": 10500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Nieto Senetiner Malbec",
+            "descripcion": null,
+            "costo": 12500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Nieto Senetiner Cabernet Sauvignon",
+            "descripcion": null,
+            "costo": 12500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Saint Felicient Malbec",
+            "descripcion": null,
+            "costo": 12500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Saint Felicient Malbec 3/8",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Copa de vino",
+            "descripcion": null,
+            "costo": 4000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Copon de vino",
+            "descripcion": null,
+            "costo": 4500,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Whiskies": [
+        {
+            "nombre": "J&B",
+            "descripcion": null,
+            "costo": 4000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Blenders",
+            "descripcion": null,
+            "costo": 3000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Baileys",
+            "descripcion": null,
+            "costo": 5000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Aperol",
+            "descripcion": null,
+            "costo": 3500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "J. Walker negro",
+            "descripcion": null,
+            "costo": 9000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "J. Walker rojo",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Jameson",
+            "descripcion": null,
+            "costo": 5000,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Champagne": [
+        {
+            "nombre": "Baron B extra brut",
+            "descripcion": null,
+            "costo": 45000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Chandon extra brut",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Salentein brut nature",
+            "descripcion": null,
+            "costo": 17000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Maria Codorniu brut nature",
+            "descripcion": null,
+            "costo": 17500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Jarra lemon champ",
+            "descripcion": null,
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Copa lemon champ",
+            "descripcion": null,
+            "costo": 5000,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Cafetería": [
+        {
+            "nombre": "Café",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Café cortado",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Café americano",
+            "descripcion": null,
+            "costo": 3100,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Café americano cortado",
+            "descripcion": null,
+            "costo": 3100,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Café con leche",
+            "descripcion": null,
+            "costo": 3800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Capuchino",
+            "descripcion": null,
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Café irlandes",
+            "descripcion": null,
+            "costo": 4800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Café doble cortado",
+            "descripcion": null,
+            "costo": 3800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Lágrima",
+            "descripcion": null,
+            "costo": 2500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Té",
+            "descripcion": null,
+            "costo": 2800,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Postres": [
+        {
+            "nombre": "Tiramisu",
+            "descripcion": "Con salsa inglesa y cacao amargo",
+            "costo": 5500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Copa Terruño",
+            "descripcion": "Helado de americana - merengue - dulce de leche y crocante",
+            "costo": 5000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Volcán de chocolate",
+            "descripcion": "Con helado de americana",
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Flan casero",
+            "descripcion": "Con dulce de leche o crema",
+            "costo": 5000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Dúo de panqueques con dulce de leche",
+            "descripcion": "Con bocha de helado de americana o limón",
+            "costo": 5000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Creme brulee de pistachio",
+            "descripcion": "Con cascaritas de cítricos",
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Copa helada",
+            "descripcion": "Dos bochas a elección: limón - frutilla - dulce de leche - chocolate - americana",
+            "costo": 4000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ensalada de frutas",
+            "descripcion": null,
+            "costo": 4500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Postres del día SIN T.A.C.C.",
+            "descripcion": null,
+            "costo": 6000,
+            "paraCeliacos": "Sí"
+        },
+        {
+            "nombre": "Cannoli Siciliani",
+            "descripcion": "Relleno de mascarpone y dips de frutos rojos",
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Copa delicias",
+            "descripcion": "Con mousse de café - mousse de chocolate y apetizzers",
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Copa helada sin T.A.C.C.",
+            "descripcion": "Flan y dulce de leche granizado - Frutilla y crema americana",
+            "costo": 4000,
+            "paraCeliacos": "Sí"
+        }
+    ],
+    "Tapas": [
+        {
+            "nombre": "Pollito rebozado",
+            "descripcion": "Con salsa de soja",
+            "costo": 3800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanadas de pescado rotiseras",
+            "descripcion": null,
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanadas varios sabores",
+            "descripcion": "consultar",
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanadas de carne cortada a cuchillo",
+            "descripcion": null,
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanaditas de carne picante",
+            "descripcion": null,
+            "costo": 3800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Albondiguitas de lomo",
+            "descripcion": "Con salsa barbacoa",
+            "costo": 3800,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Triangulitos fritos de puerro y roquefort",
+            "descripcion": null,
+            "costo": 3500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Dátiles envueltos en panceta",
+            "descripcion": null,
+            "costo": 4000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Rabas con papas fritas",
+            "descripcion": null,
+            "costo": 12500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Mini tortilla Española",
+            "descripcion": null,
+            "costo": 5000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Provoleta",
+            "descripcion": null,
+            "costo": 6500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Barritas de queso rebozadas",
+            "descripcion": null,
+            "costo": 7000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Brusqueta de jamón crudo",
+            "descripcion": "Con tomate confitado y albahaca",
+            "costo": 4000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Tabla de quesos y fiambres caseros",
+            "descripcion": "De elaboración propia",
+            "costo": 22000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Brusqueta de hongos",
+            "descripcion": null,
+            "costo": 4000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Langostinos rebozados",
+            "descripcion": null,
+            "costo": 5000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Porción de papas fritas con cheddar",
+            "descripcion": null,
+            "costo": 6500,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Ensaladas": [
+        {
+            "nombre": "Ensalada Caesar",
+            "descripcion": "Con pechuga de pollo - lechuga capuchina - parmesano - croutons y salsa caesar",
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ensalada del chef",
+            "descripcion": "Con hojas verdes - jamón cocido - tomate - huevo - queso y pollo",
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ensalada de rúcula y queso azúl",
+            "descripcion": "Rúcula - peras - roquefort - jamón crudo - tomates confitados",
+            "costo": 11500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ensalada de rúcula y queso parmesano",
+            "descripcion": null,
+            "costo": 6500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ensalada Mixta",
+            "descripcion": "Hasta 3 ingredientes a elección",
+            "costo": 6000,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Pizzetas Individuales": [
+        {
+            "nombre": "Pizzeta Muzzarella",
+            "descripcion": null,
+            "costo": 9000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizzeta Terruño",
+            "descripcion": "Jamón cocido - huevo picado - muzzarella - morrón - aceite de ajo",
+            "costo": 10000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizzeta Cuatro quesos",
+            "descripcion": "Muzzarella - provolone - roquefort y parmesano",
+            "costo": 11500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizzeta Panceta",
+            "descripcion": "Panceta picada - rúcula - muzzarella",
+            "costo": 11500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizzeta Especial",
+            "descripcion": "Jamón cocido - muzzarella y morrones",
+            "costo": 10000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizzeta Capresse",
+            "descripcion": "Tomate - muzzarella y albahaca",
+            "costo": 9500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizzeta de champignones y ajo",
+            "descripcion": "Muzzarella - cebolla de verdeo - queso provolone y ajo",
+            "costo": 11500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizzeta de calamares al ajillo",
+            "descripcion": "Calamares - muzzarella y albahaca",
+            "costo": 13500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pizza de Muzzarella sin T.A.C.C.",
+            "descripcion": null,
+            "costo": 10000,
+            "paraCeliacos": "Sí"
+        },
+        {
+            "nombre": "Pizza Especial sin T.A.C.C.",
+            "descripcion": null,
+            "costo": 11500,
+            "paraCeliacos": "Sí"
+        },
+        {
+            "nombre": "Pizza margarita",
+            "descripcion": "Muzzarella y hojas de albahaca",
+            "costo": 9500,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Sanwiches": [
+        {
+            "nombre": "Tostado clásico",
+            "descripcion": "Pan de campo - jamón cocido y queso",
+            "costo": 6000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Lomito completo",
+            "descripcion": "Láminas de lomo - tomate - lechuga - queso - panceta y huevo. Acompañado de papas fritas",
+            "costo": 13500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Hamburguesa completa",
+            "descripcion": "Doble medallón - tomate - lechuga - jamón cocido - queso y huevo. Acompañado de papas fritas",
+            "costo": 12000,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Empanadas": [
+        {
+            "nombre": "Empanada de pescado",
+            "descripcion": "Fritas o al horno",
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanada de carne cortada a cuchillo",
+            "descripcion": "Fritas o al horno",
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanada de verdura y salsa blanca",
+            "descripcion": "Fritas o al horno",
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanada de jamón y queso",
+            "descripcion": "Fritas o al horno",
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanada de humita",
+            "descripcion": "Fritas o al horno",
+            "costo": 2300,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Empanada de roquefort y nuez",
+            "descripcion": "Fritas o al horno",
+            "costo": 2300,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Platos Principales": [
+        {
+            "nombre": "Cazuela de pollo a la Toscana",
+            "descripcion": "Con papas españolas",
+            "costo": 16500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Milanesa de pollo",
+            "descripcion": "Con papas fritas",
+            "costo": 12500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Milanesa de ternera a la napolitana",
+            "descripcion": "Con papas fritas",
+            "costo": 13500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Malfatis de espinaca",
+            "descripcion": "Con crema mediterranea",
+            "costo": 14500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ravioles de Parma",
+            "descripcion": "Relleno de muzarella - jamón crudo - albahaca y concassé de tomates",
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Milanesa de pollo a la napolitana",
+            "descripcion": "Con papas fritas",
+            "costo": 13000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ravioles de verdura",
+            "descripcion": "Con tuco y/o crema",
+            "costo": 13000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Tallarines",
+            "descripcion": "Con tuco y/o crema (adicional bolognesa)",
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ñoquis",
+            "descripcion": "Con tuco y/o crema (adicional bolognesa)",
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Trucha rellena",
+            "descripcion": "Con puerros al roquefort - sobre cremoso de zapallo y ciboulet",
+            "costo": 17500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Pesca del día",
+            "descripcion": "Con trilogía de salsas - hojas verdes y papas españolas",
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ravioles de calabaza",
+            "descripcion": "Con salsa de crema de ciboulette",
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Milanesa de Río",
+            "descripcion": "Con papas fritas y hojas verdes",
+            "costo": 13500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Milanesa de ternera",
+            "descripcion": "Con papas fritas",
+            "costo": 13000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Bife de Ternera agrillado",
+            "descripcion": "En su jugo de cocción con brochet de papas - pimientos y panceta",
+            "costo": 19000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Tallarines con Mariscos",
+            "descripcion": null,
+            "costo": 20000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Falso risotto de quínoa y hongos",
+            "descripcion": "En tuil de hierbas",
+            "costo": 15000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Cazuela de Mariscos",
+            "descripcion": "Camarones - cholgas - mejillones - almejas - cola y tentáculo",
+            "costo": 25000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ternera Guisada estilo Bourguignon",
+            "descripcion": "Servido en cabutia",
+            "costo": 16500,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Bondiola breseada",
+            "descripcion": "Con jarabe de tomate con torrejas de batatas y cebolla mascabo",
+            "costo": 18000,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Menú Infantil": [
+        {
+            "nombre": "Ravioles de verdura con tuco y/o crema",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Milanesa de pollo con papas fritas",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Milanesa de ternera con papas fritas",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Tallarines con tuco y/o crema",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Ñoquis con tuco y/o crema",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Patitas de pollo con papas fritas",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        },
+        {
+            "nombre": "Hamburguesa con queso y papas fritas",
+            "descripcion": null,
+            "costo": 12000,
+            "paraCeliacos": "No"
+        }
+    ],
+    "Platos para celíacos": [
+        {
+            "nombre": "Tallarines sin T.A.C.C.",
+            "descripcion": "Consultar opción con carne de ternera - pollo y cerdo",
+            "costo": 3000,
+            "paraCeliacos": "Sí"
+        },
+        {
+            "nombre": "Ñoquis sin T.A.C.C.",
+            "descripcion": "Consultar opción con carne de ternera - pollo y cerdo",
+            "costo": 3000,
+            "paraCeliacos": "Sí"
+        },
+        {
+            "nombre": "Canelones sin T.A.C.C.",
+            "descripcion": "Consultar opción con carne de ternera - pollo y cerdo",
+            "costo": 3000,
+            "paraCeliacos": "Sí"
+        },
+        {
+            "nombre": "Sorrentinos de jamón y queso sin T.A.C.C.",
+            "descripcion": "Consultar opción con carne de ternera - pollo y cerdo",
+            "costo": 3000,
+            "paraCeliacos": "Sí"
+        },
+        {
+            "nombre": "Sorrentinos de calabaza sin T.A.C.C.",
+            "descripcion": "Consultar opción con carne de ternera - pollo y cerdo",
+            "costo": 3000,
+            "paraCeliacos": "Sí"
+        }
+    ]
+}

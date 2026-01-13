@@ -11,7 +11,6 @@ const Home: NextPage = () => {
     <div className="m-0 text-center text-medium-brown font-body">
       <Header />
       <MenuButtons />
-      <Logo />
       <AdditionalInformation />
       <Footer />
     </div>
@@ -19,3 +18,4 @@ const Home: NextPage = () => {
 }
 
 export default Home
+
