@@ -1,10 +1,16 @@
 import React, { useState } from "react";
 
-const HoverTooltip = ({ href, children, tooltipText }) => {
+interface HoverTooltipProps {
+  href: string;
+  children: React.ReactNode;
+  tooltipText: string;
+}
+
+const HoverTooltip = ({ href, children, tooltipText }: HoverTooltipProps) => {
   const [pos, setPos] = useState({ x: 0, y: 0 });
   const [show, setShow] = useState(false);
 
-  const handleMove = (e) => {
+  const handleMove = (e: React.MouseEvent<HTMLAnchorElement>) => {
     setPos({ x: e.clientX + 15, y: e.clientY + 15 });
   };
 
